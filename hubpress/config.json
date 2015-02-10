@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vibal",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"vibal","repositoryName":"hubpress.io","branch":"gh-pages","cname":"www.mikal.me"},"site":{"title":"Mikal | Wat","description":"Teh existence in the Cyber World","url":"http://www.mikal.me"},"socialnetwork":{"email":"hi@mikal.me","twitter":"http://twitter.com/mikal_twit","facebook":"https://www.facebook.com/mikal.stranger","github":"http://github.com/vibal"},"theme":{"name":"Casper","url":"http://vibal.github.io/hubpress.io/themes/Casper"}}
