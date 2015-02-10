@@ -2,5 +2,5 @@
 :hp-tags: kuripot mode
 
 Just checking up this cool code. +
-today I learned AsciiDocs. +
+Today I learned AsciiDocs. +
 O yiss! ʘ‿ʘ
