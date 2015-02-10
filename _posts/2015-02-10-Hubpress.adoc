@@ -1,6 +1,6 @@
 = Hubpress
 :hp-tags: kuripot mode
 
-Just checking up this cool code. +
+Just checking up this cool code by *http://hubpress.io*. +
 Today I learned AsciiDocs. +
 O yiss! ʘ‿ʘ
